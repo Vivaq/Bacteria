@@ -1,0 +1,6 @@
+#1
+{maximum enemies: 10, time: 120, scoring: 1.5, dim:[1000, 700]}
+#2
+{maximum enemies: 15, time: 90, scoring: 1.5, objects: {10:50, 132:65, 476:300, 100:300}, dim:[1000,700]}
+#3
+{maximum enemies: 12, time: 120, scoring: 1.5, objects: {110:50, 12:8, 136:200, 100:700}, dim:[1000,700]}
